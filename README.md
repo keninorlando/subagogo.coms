@@ -1,4 +1,7 @@
 # subagogo.coms
+
+https://www.subagogo.com/
+
 Sofware from Subagogo COMS systems. This allows the updating of multiple web browsers via remote control or automation.
 
 This project started as a tv game show system but as I developed it I realized the game show was just an 'app' on top of the underlying COMS system.
